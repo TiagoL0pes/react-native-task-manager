@@ -12,9 +12,11 @@ This app allow you to manage tasks in the best to-do list style
 
 ## Layout
 
-<img src="./assets/github/empty.png" alt="empty preview" >
-<img src="./assets/github/description.png" alt="description preview" >
-<img src="./assets/github/list.png" alt="list preview" >
+<div align="center">
+  <img src="./assets/github/empty.png" width="300" alt="empty preview" >
+  <img src="./assets/github/description.png" width="300" alt="description preview" >
+  <img src="./assets/github/list.png" width="300" alt="list preview" >
+</div>
 
 ## Running project
 
